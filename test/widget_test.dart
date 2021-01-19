@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:dark_theme/main.dart';
+import 'file:///C:/Users/Taha/AndroidStudioProjects/Flutter%20Application/dark_theme/lib/src/base.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
